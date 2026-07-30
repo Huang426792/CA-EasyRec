@@ -1,0 +1,5 @@
+-r requirements.txt
+accelerate==0.28.0
+sentence-transformers>=2.6
+sentencepiece==0.2.0
+transformers==4.40.0
