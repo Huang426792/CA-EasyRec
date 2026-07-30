@@ -1,0 +1,6 @@
+domain,user_id,item_id,split
+books,u10,i2,train
+books,u2,i10,train
+books,u10,i10,test
+games,g1,x1,train
+games,g1,x2,test
